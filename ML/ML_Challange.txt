@@ -1,1 +1,28 @@
 
+Objective
+In this second part of the challenge, you will work on a dataset that
+you saw during week 1 but this time with a different perspective. You
+will predict whether a person is a smoker or not based on a set of
+features. Your goal is not only to build a prediction model but to build a
+prediction model in the best possible way. So in this challenge, you
+will be building, evaluating, AND improving your model.
+Dataset Download here :Insurance Dataset.
+
+The dataset columns are:
+❏ age: age of primary beneficiary
+❏ sex: insurance contractor gender, female, male
+❏ bmi: Body mass index, providing an understanding of body,
+weights that are relatively high or low relative to height,
+objective index of body weight (kg / m ^ 2) using the ratio of
+height to weight, ideally 18.5 to 24.9
+❏ children: Number of children covered by health insurance /Number of dependents
+❏ smoker: Smoking (TARGET)
+❏ region: the beneficiary's residential area in the US, northeast,southeast, southwest, northwest.
+❏ charges: Individual medical costs billed by health insurance
+
+Expected Work
+❏ Import the data in the Notebook Environment.
+❏ Run the EDA on the dataset you have.
+❏ Preprocess the data before building your model.
+❏ Build a Logistic Regression model to predict if a person is a smoker or not and then evaluate the model.
+❏ Improve the model you built using Data, Modeling, and Optimization techniques learned during the week!
