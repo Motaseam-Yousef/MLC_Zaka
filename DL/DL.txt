@@ -1,1 +1,33 @@
 
+Objective
+The goal of this challenge is to walk you through a case study where
+you can apply the deep learning concepts that you learned during the
+week. By the end of this challenge, you would have developed a
+solution that predicts if a person will have a stroke or not based on
+given features using a Deep Learning solution.
+DataSet Stroke Dataset This dataset contains information about
+people having specific medical conditions (features) and if they
+suffered from a stroke or not.
+
+The columns of this dataset are as follows:
+❏ id: unique identifier
+❏ gender: "Male", "Female" or "Other"
+❏ age: age of the patient
+❏ hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
+❏ heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
+❏ ever_married: "No" or "Yes"
+❏ work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
+❏ Residence_type: "Rural" or "Urban"
+❏ avg_glucose_level: average glucose level in blood
+❏ bmi: body mass index
+❏ smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
+❏ stroke: 1 if the patient had a stroke or 0 if not
+
+Expected Work
+❏ Import the data in the Notebook Environment.
+❏ Do the EDA on your dataset.
+❏ Preprocess the data before building your model.
+❏ Build a DL model that predicts if a person will have a stroke
+given some specific features.
+❏ Improve your DL model using some improvements techniques
+that you learned about during the week.
