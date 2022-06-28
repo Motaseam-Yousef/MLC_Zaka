@@ -1,1 +1,19 @@
 
+Objective
+The goal of this challenge is to walk you through a case study where you can apply the Computer Vision concepts that you learned during the week. By the end of this challenge, you would have developed a solution that predicts if a person is wearing a face mask or not given an image provided as input. You will also get the chance to discover how to communicate with Kaggle via API. Dataset The data that we want is on kaggle and you can access it
+through this link: What you will have to do, is search for a way that allows you to download the dataset from kaggle directly into google colab (or your google drive). This process would save you the trouble from downloading the dataset locally and then uploading it to use it in colab. The process would involve communicating with Kaggle via API.
+You can read the documentation of the dataset on the website to get more familiar with what it contains. Note that during the colab, we won’t be working on the whole dataset, we will be taking a subset of it.
+
+Things you might want to Search for
+● Kaggle API
+● How to communicate between Kaggle and Google drive/colab
+● Python’s “os” and “shutil” library.
+
+Expected Work
+❏ Import the dataset into the colab environment. Make sure to learn how to do this by using Kaggle’s API
+❏ Take a subset of the downloaded dataset as mentioned in the notebook
+❏ Understand what does your dataset look like
+❏ Build your Model
+❏ Evaluate your Model
+❏ Do some error analysis
+❏ Improve your model
